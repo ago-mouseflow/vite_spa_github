@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
       <img src="./assets/logo.svg" class="logo" alt="Mouseflow logo" />
     </a>
   </div>
-  <HelloWorld msg="Hey Flowsters" />
+  <HelloWorld msg="Hey Flowsters!" />
 </template>
 
 <style scoped>
