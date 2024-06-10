@@ -4,14 +4,11 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <div>
-    <a href="https://vitejs.dev" target="_blank">
-      <img src="/vite.svg" class="logo" alt="Vite logo" />
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+    <a href="https://mouseflow.com" target="_blank">
+      <img src="./assets/logo.svg" class="logo" alt="Mouseflow logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue TEST" />
+  <HelloWorld msg="Hey Flowsters" />
 </template>
 
 <style scoped>
